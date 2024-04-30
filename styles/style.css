@@ -149,7 +149,7 @@ ol {
 }
 
 .search-form__label:has(:focus-visible) {
-  border: 1px solid #FFFFFF;
+  outline: 1px solid #FFFFFF;
   padding: 1px;
 }
 
@@ -175,7 +175,7 @@ ol {
   display: inline-block;
   width: 19px;
   height: 19px;
-  border: 1px solid #ffffff;
+  border: 1px solid #ffffff; 
 }
 
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::before {
@@ -202,7 +202,7 @@ ol {
   font-size: 18px;
   font-weight: 700;
   line-height: 21.6px;
-  border: 1px solid #FFFFFF;
+  outline: 1px solid #FFFFFF;
   color: #fff;
   background-color: transparent;
   text-align: center;
