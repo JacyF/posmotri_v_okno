@@ -16,6 +16,7 @@ html {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+  padding: 133px 30px;
 }
 
 h1,
@@ -47,6 +48,7 @@ ol {
   inline-size: 1140px;
   block-size: 534px;
   margin: 133px 30px;
+  
 }
 
 /*================================= WORK ON 'SECTION RESULT' ================================= */
