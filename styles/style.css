@@ -253,7 +253,7 @@ ol {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  gap: 20px;
+  gap: 26px;
   width: 399px;
   /* height: 534px; */
 }
