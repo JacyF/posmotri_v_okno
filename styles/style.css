@@ -40,7 +40,9 @@ ol {
 /*================================= WORK ON 'BODY' ================================= */
 
 .page {
-  padding: 133px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*================================= WORK ON 'MAIN' ================================= */
@@ -50,8 +52,6 @@ ol {
   align-items: end;
   gap: 30px;
   width: 1140px;
-  min-height: 534px;
-  margin: 133px auto;
 }
 
 /*================================= WORK ON 'SECTION RESULT' ================================= */
