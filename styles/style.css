@@ -293,11 +293,6 @@ ol {
   text-decoration: none;
 }
 
-
-
-
-
-
 .content__card-link_current {
   background-color: #545050;
 }
@@ -307,6 +302,12 @@ ol {
   justify-content: space-between;
   padding: 2px;
 }
+
+
+
+
+
+
 
 .content__video-card:hover {
   text-decoration: underline;
