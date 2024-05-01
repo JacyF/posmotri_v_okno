@@ -107,10 +107,18 @@ ol {
 
 
 .search-form__label {
-  display: inline-block;
+  display: flex;
+  align-items: center;
+  gap: 5px;
   width: fit-content;
   text-align: left;
 }
+
+
+
+
+
+
 
 .search-form__label:hover {
   cursor: pointer;
