@@ -255,7 +255,7 @@ ol {
   justify-content: flex-end;
   gap: 20px;
   width: 399px;
-  height: 534px;
+  /* height: 534px; */
 }
 
 /* ####### ON H1 'title' ####### */
