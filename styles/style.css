@@ -84,8 +84,16 @@ ol {
   align-items: end;
   justify-content: space-between;
   inline-size: 100%;
-  block-size: 54px;
 }
+
+
+
+
+
+
+
+
+
 
 .search-form__fieldset {
   border: none;
