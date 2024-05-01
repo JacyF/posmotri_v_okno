@@ -37,12 +37,13 @@ ol {
   list-style: none;
 }
 
-/*================================= WORK ON 'MAIN' ================================= */
-
+/*================================= WORK ON 'BODY' ================================= */
 
 .page {
   padding: 133px 0px;
 }
+
+/*================================= WORK ON 'MAIN' ================================= */
 
 .content {
   display: flex;
@@ -51,22 +52,7 @@ ol {
   gap: 30px;
   width: 1140px;
   min-height: 534px;
-  margin: 133px auto;
-  /* padding: 133px 0px; */
-}
-
-
-.ctent {
-  display: flex;
-  justify-content: start;
-  align-items: flex-end;
-  gap: 30px;
-  inline-size: 1140px;
-  block-size: 534px;
-  /* padding: 133px; */
-  /* margin: 133px 30px; */
-  /* border: 1px solid yellow; */
-  
+  /* margin: 133px auto; */
 }
 
 /*================================= WORK ON 'SECTION RESULT' ================================= */
