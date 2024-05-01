@@ -255,7 +255,6 @@ ol {
   justify-content: flex-end;
   gap: 26px;
   width: 399px;
-  /* height: 534px; */
 }
 
 /* ####### ON H1 'title' ####### */
@@ -288,12 +287,16 @@ ol {
 
 .content__card-link {
   display: block;
-  height: 107px;
   width: 398px; 
   margin: 2px;
   color: #fff;
   text-decoration: none;
 }
+
+
+
+
+
 
 .content__card-link_current {
   background-color: #545050;
