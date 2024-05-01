@@ -41,7 +41,7 @@ ol {
 
 
 .page {
-  padding: 133px 30px;
+  padding: 133px 0px;
 }
 
 .content {
@@ -50,8 +50,9 @@ ol {
   margin: auto;
   gap: 30px;
   width: 1140px;
-  /* min-height: 534px; */
-  padding: 133px 30px;
+  min-height: 534px;
+  margin: 133px auto;
+  padding: 133px 0px;
 }
 
 
