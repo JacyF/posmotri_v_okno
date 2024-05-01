@@ -199,23 +199,18 @@ ol {
   text-decoration: underline;
 }
 
-
-
-
-
-
 .search-form__checkbox:focus + span {
   outline: none;
 }
 
 .button {
-  height: 34px;
+  min-height: 34px;
   padding: 5px;
   font-family: Fira Sans Condensed, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 21.6px;
-  border: 1px solid #FFFFFF;
+  border: 1px solid currentColor;
   color: #fff;
   background-color: transparent;
   text-align: center;
@@ -242,6 +237,15 @@ ol {
   outline: 1px solid #ffffff;
   outline-offset: 1px;
 }
+
+
+
+
+
+
+
+
+
 
 /*================================= WORK ON 'SECTION CONTENT__DETAILS' ================================= */
 
