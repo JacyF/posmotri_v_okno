@@ -56,11 +56,10 @@ ol {
 
 /*================================= WORK ON 'SECTION RESULT' ================================= */
 
-/* ####### ON DIV 'result' ####### */
+/* ############ ON DIV 'result' ############ */
 
 .result {
   width: 711px;
- 
 }
 
 .result__video-container {
@@ -78,7 +77,7 @@ ol {
   object-position: center;
 }
 
-/* ####### ON FORM 'search-form' ####### */
+/* ############ ON FORM 'search-form' ############ */
 
 .search-form {
   display: flex;
