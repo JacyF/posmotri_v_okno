@@ -9,6 +9,9 @@ html {
 }
 
 .page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
@@ -35,14 +38,6 @@ fieldset {
 ul,
 ol {
   list-style: none;
-}
-
-/*================================= WORK ON 'BODY' ================================= */
-
-.page {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 /*================================= WORK ON 'MAIN' ================================= */
@@ -278,7 +273,7 @@ ol {
 
 .content__card-link {
   display: block;
-  width: 398px; 
+  width: 397px; 
   margin: 2px;
   color: #fff;
   text-decoration: none;
