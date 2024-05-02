@@ -127,6 +127,10 @@ ol {
   min-height: 27px;
   margin: 0;
   padding: 2.5px;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
   background-color: transparent;
   border: none;
   border-top: 1px solid #FFFFFF;
@@ -306,6 +310,7 @@ ol {
 }
 
 .content__video-card-title {
+  margin-bottom: 5px;
   font-family: Oswald, Arial, Helvetica, sans-serif;
   font-size: 30px;
   font-weight: 700;
