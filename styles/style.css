@@ -46,6 +46,7 @@ ol {
   display: flex;
   justify-content: space-between;
   align-items: end;
+  gap: 30px;
   width: 1140px;
 }
 
@@ -59,7 +60,7 @@ ol {
 
 .result__video-container {
   position: relative;
-  width: 100%;
+  width: 711px;
   height: 386px;
   margin-bottom: 16px;
   cursor: pointer;
@@ -244,7 +245,7 @@ ol {
   flex-direction: column;
   justify-content: flex-end;
   gap: 26px;
-  width: 399px;
+  width: 100%;
 }
 
 /* ####### ON H1 'title' ####### */
